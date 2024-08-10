@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #151515dc;
+    padding-left: 280px;
+    padding-right: 150px;
+    color:#ffff00;
+}
+h1{
+    width: 300px;
+    color:#ffff00;
+    /* border: 2px solid black;
+    border-radius: 30%; */
+    
+}
+.Enterbtn{
+    background-color: rgb(39, 182, 39);
+    color: black;
+    border-radius: 30%;
+}
+.Enterbtn:hover{
+    cursor: pointer;
+    background-color: greenyellow;
+}
+#todo{
+    border-radius: 25px;
+    height: 20px;
+}
